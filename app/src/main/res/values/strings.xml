@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+    <resources>
+
+    <string name="app_name">Gallery</string>
+
+    <string name="LeftArrow">❮</string>
+
+    <string name="RightArrow">❯</string>
+
+</resources>
